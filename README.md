@@ -69,6 +69,8 @@ To access the application, simply visit the following URL:
 
 The database is hosted online using Clever Cloud MySQL.
 [https://www.clever-cloud.com/product/mysql/](https://www.clever-cloud.com/product/mysql/)
+The Backend API is hosted online using Render
+https://render.com/
 
 ## Backend API Usage
 
