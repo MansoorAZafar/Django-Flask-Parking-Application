@@ -1,5 +1,4 @@
 # Django-Flask-Parking-Application
 
-This is the API for the Parking Simulator application, facilitating the reservation management process with ease and efficiency. 
-It offers users access to 50 parking slots, categorized as 'inner' and 'outer' spaces. Users can reserve slots, view their reservations, cancel bookings, 
-provide feedback, and manage authentication through login, logout, and registration functionalities.
+This Parking Simulator application offers users access to 50 distinct slots, categorized into 'inner' and 'outer' spaces for reservation. In addition to reservation capabilities, users can effortlessly manage their bookings, provide feedback, and access authentication features such as login, logout, and registration.
+
