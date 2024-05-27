@@ -51,13 +51,13 @@ To access the application, simply visit the following URL:
 
 ## Contributing & Credits
 
-- **UI:** Aldrin Fernandez
+- **UI:** Aldrin Fernandez [@aldrin118](https://github.com/aldrin118)
   - Implemented frontend components and UI design.
 
-- **Frontend Tests** Nazanin Tabrizizadeh
+- **Frontend Tests** Nazanin Tabrizizadeh [@naz-tbz](https://github.com/naz-tbz)
   - Implemented testR.py
 
-- **Backend Tests:** Mansoor Zafar
+- **Backend Tests:** Mansoor Zafar [@MansoorAZafar](https://github.com/MansoorAZafar) or [@Mansoor-A-Zafar](https://github.com/Mansoor-A-Zafar) (School Account)
   - Conducted tests for the backend API.
 
 - **Database API:** Mansoor Zafar
