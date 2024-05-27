@@ -9,7 +9,7 @@ To access the application, simply visit the following URL:
 [https://project2-2.onrender.com/](https://project2-2.onrender.com/)
 
 
-Screenshots
+## Screenshots
 
 - Starting Screen:
 
