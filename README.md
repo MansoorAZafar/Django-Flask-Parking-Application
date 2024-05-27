@@ -8,7 +8,9 @@ The Parking Simulator application offers users access to 50 distinct slots, cate
 To access the application, simply visit the following URL:
 [https://project2-2.onrender.com/](https://project2-2.onrender.com/)
 
-## Screenshots
+
+<details>
+<summary>Screenshots</summary>
 
 - Starting Screen:
 
@@ -33,6 +35,8 @@ To access the application, simply visit the following URL:
 - Viewing Reservations:
 
   ![image](https://github.com/MansoorAZafar/Django-Flask-Parking-Application/assets/164381371/204d936c-0a62-4948-81c1-240345db5178)
+
+</details>
 
 ## Features
 
