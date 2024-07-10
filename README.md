@@ -264,4 +264,3 @@ or
   "error": "Slot not found"
 }
 ```
-This section outlines how to interact with the Backend API developed by Mansoor Zafar.
